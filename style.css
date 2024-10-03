@@ -1,0 +1,131 @@
+/* top */
+* {
+    margin: 0;
+}
+
+.top table {
+    width: 100%;
+}
+
+.top img {
+    width: 100%;
+    height: 10em;
+}
+
+.top ul {
+    list-style: none;
+    background-color: blue;
+    padding: 0.5em 1.5em;
+    font-size: small;
+}
+
+.top li {
+    display: inline;
+    padding-left: 1.5em;
+}
+
+.top marquee {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 0.2em 0;
+}
+
+.top li:first-child {
+    padding-left: 0.3em;
+}
+
+.top a:hover {
+    color: red;
+}
+
+.top a {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    text-decoration: none;
+}
+
+/* top */
+/* left */
+.left table {
+    width: 100%;
+}
+
+.left img {
+    width: 100%;
+    height: 3.5em;
+}
+
+.left ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.left li {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.1em 0.5em;
+    background-color: darkcyan;
+    margin-bottom: 0.07em;
+    font-size: smaller;
+}
+
+.left li:hover {
+    background-color: blue;
+}
+
+.left p {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.left label {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+}
+
+/* left */
+/* right */
+.right table {
+    width: 100%;
+}
+
+.right img {
+    width: 100%;
+}
+
+/* right */
+/* bottom */
+.bottom {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottom h5 {
+    margin-top: 1em;
+    color: red;
+}
+
+.bottom p {
+    color: blue;
+    font-size: small;
+}
+
+/* Center */
+.center {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center h3 {
+    color: red;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+.center p {
+    text-align: justify;
+    padding: 0 1em;
+    font-size: smaller;
+    line-height: 1.35em;
+}
